@@ -6,4 +6,4 @@ cout<<"sample code";
 return 0;
 }
 lets edit
-editing in branch master
+merge conflict resolving
